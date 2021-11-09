@@ -1,7 +1,7 @@
 module.exports = {
     client: {
         service: {
-            url: 'https://d-themes.com/graphql'
+            url: 'http://localhost/graphql'
         }
     }
 }
